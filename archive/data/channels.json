@@ -1,0 +1,26 @@
+{
+    "tvcr2": {
+        "name": "tvcr2",
+        "desc": "1",
+        "filename": "uploads\/tvcr2\/69295a0dbf612_download (5).jpg",
+        "mime": "image\/jpeg",
+        "created_at": 1764296192,
+        "updated_at": 1764317709
+    },
+    "testchannel": {
+        "name": "testchannel",
+        "desc": "Test Channel",
+        "filename": "uploads\/testchannel\/6929630439615_Desain tanpa judul (50).png",
+        "mime": "image\/png",
+        "created_at": 1764316239,
+        "updated_at": 1764320004
+    },
+    "r5": {
+        "name": "r5",
+        "desc": "0",
+        "filename": "uploads\/r5\/692ced506aeb5_Desain tanpa judul (49).png",
+        "mime": "image\/png",
+        "created_at": 1764317349,
+        "updated_at": 1764552016
+    }
+}

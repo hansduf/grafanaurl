@@ -1,0 +1,7 @@
+RewriteEngine On
+
+# Redirect root to views/index.php
+RewriteRule ^$ views/index.php [QSA,L]
+
+# Route API requests
+RewriteRule ^api/(.*)$ api.php [QSA,L]
