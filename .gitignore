@@ -1,0 +1,42 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Node modules & build
+node_modules/
+dist/
+.parcel-cache/
+
+# Uploads folder (user uploaded files)
+uploads/
+
+# Archive folder (deprecated code)
+archive/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+debug.log
+
+# PHP
+vendor/
+composer.lock
+
+# Duplicate files (deprecated versions)
+*.backup
+*.old
+*.bak
+
+# Sensitive files
+.htaccess.local
+config.local.php
